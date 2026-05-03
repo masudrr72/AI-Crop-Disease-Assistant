@@ -18,8 +18,8 @@ An AI-powered crop disease detection system that analyzes leaf images and provid
 
 - Architecture: Convolutional Neural Network (CNN)
 - Dataset: PlantVillage Dataset (Kaggle)
-- Number of Classes: 38
-- Accuracy: 93.6%
+- Number of Classes: 37
+- Accuracy: 93.7%
 
 ---
 
