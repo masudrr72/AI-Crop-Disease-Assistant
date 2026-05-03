@@ -1,4 +1,4 @@
-# 🌿 AI Crop Disease Assistant
+# 🌱 AI Crop Disease Assistant
 
 An AI-powered crop disease detection system that analyzes leaf images and provides actionable insights for farmers and researchers.
 
