@@ -53,7 +53,7 @@ This project demonstrates how deep learning can be applied in agriculture to ass
 
 The application is deployed using Streamlit for an interactive user experience.
 
-You can use it by this link 👉 
+You can use it by this link 👉 https://ai-crop-disease-assistant-mr72.streamlit.app/
 
 ---
 
